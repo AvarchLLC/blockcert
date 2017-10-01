@@ -12,6 +12,7 @@ Transaction hash, you need this to verify the certificate on blockchain::::0xd3e
 Certicate generated in Certicate folder
 
 ```
+certificate is generated in folder **"certificate"**
 
 ## Verify certificate
 ```
