@@ -2,7 +2,7 @@
 
 ## Install dependencies
 
-Install dependency by command **npm install** from root ditrectory of project
+Install dependencies by command **npm install** from root ditrectory of project
 
 ## Generate certificate
 ```
